@@ -1,0 +1,14 @@
+basicsr 
+facexlib 
+gfpgan 
+numpy 
+opencv-python 
+Pillow 
+torch 
+torchvision 
+tqdm 
+realesrgan 
+natsort 
+scipy 
+scikit-image 
+ffmpeg-python

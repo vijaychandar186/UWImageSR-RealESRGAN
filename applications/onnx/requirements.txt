@@ -1,0 +1,7 @@
+onnx
+onnxruntime-gpu
+torch
+basicsr
+opencv-python
+numpy
+pyyaml

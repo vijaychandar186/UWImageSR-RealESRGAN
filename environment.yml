@@ -1,0 +1,22 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - numpy
+      - scipy
+      - scikit-image
+      - opencv-python
+      - tqdm
+      - pillow
+      - basicsr
+      - facexlib
+      - gfpgan
+      - realesrgan
+      - torch
+      - torchvision
+      - natsort
+      - ffmpeg-python

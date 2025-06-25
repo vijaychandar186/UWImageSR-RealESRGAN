@@ -1,0 +1,4 @@
+{
+  "name": "dev-env",
+  "postCreateCommand": "sudo apt update && sudo apt install -y libopencv-dev ffmpeg",
+}
